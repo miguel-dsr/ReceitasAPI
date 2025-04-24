@@ -1,7 +1,6 @@
 # 🍳 API de Receitas - Projeto DevOps
 
-[![.NET](https://img.shields.io/badge/.NET-6.0-purple)](https://dotnet.microsoft.com/)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![.NET](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/)
 
 API para gerenciamento de receitas e ingredientes, desenvolvida como pré-tarefa para o curso de DevOps.
 
